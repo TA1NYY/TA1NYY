@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasin YAMAN</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-- 📝 I regulary write articles on [https://blog.yama.dev](blog.yama.dev)
+- 📝 I regulary write articles on [blog.yama.dev](https://blog.yama.dev)
 
 - 📫 How to reach me **yasin@yaman.dev**
 
